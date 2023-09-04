@@ -23,7 +23,7 @@ header{
     border: 2px solid white;
     border-radius: 20px;
     height: 30px;
-    width: 240px;
+    width: 200px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bolder;
 }
@@ -31,4 +31,98 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.txt1{
+    text-align: center;
+    font-size: 100px;
+    color: white;
+}
+.txt2{
+    font-size: 60px;
+    margin-top: -29px;
+    text-align: center;
+    color: white;
+}
+.txtmain{
+    margin-top: -5px;
+    background-color: black;
+    padding: 70px 10px;
+}
+.txtmain2{
+    margin-top: -5px;
+    background-color: black;
+}
+.followBtn{
+background-color: #0025ff;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: bolder;
+font-size: 50px;
+border: #0025ff;
+margin-top: 30px;
+height: 100px;
+width: 500px;
+}
+.btnFlex{
+    display: flex;
+    justify-content: center;
+}
+.txt3{
+    text-align: center;
+    font-size: 70px;
+    color: white;
+    font-weight: bolder; 
+}
+.txt4{
+    font-size: 50px;
+    margin-top: -29px;
+    text-align: center;
+    color:#0025ff;  
+    font-weight: bolder; 
+}
+.txt5{
+    font-size: 90px;
+    margin-top: -39px;
+    text-align: center;
+    color: white;  
+    font-weight: bolder; 
+}
+.txtmain3{
+    background-color: black;
+    height: 100px;
+    margin-top: -5px;
+    padding: 20px 40px;
+}
+.notePara{
+
+    color: white;
+    font-weight: lighter;
+    font-size: small;
+    text-align: center;
+}
+.notePara2{
+    color: white;
+    font-weight: lighter;
+    font-size: small;
+    text-align: center;
+}
+.txtmain4{
+    background-color: black;
+    padding: 20px 72px;
+    margin-top: -4px;
+}
+.txt6{
+    color: #0025ff;
+    font-size: 50px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.SocialLinks{
+    display: flex;
+    justify-content: center;
+    border: 2px solid #0025ff;
+
+}
+.SocialLinkPic{
+    height: 200px;
 }
